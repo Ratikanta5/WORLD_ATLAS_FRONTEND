@@ -17,7 +17,7 @@ export default function Home() {
           </button>
         </div>
         <div className="hero-image">
-            <img src="/" alt="" />
+            <img src="/images/world.png" alt="world is beauty" className="banner-image" />
         </div>
       </div>
     </main>
